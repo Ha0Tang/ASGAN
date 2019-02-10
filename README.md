@@ -1,5 +1,5 @@
 # ASGAN
-Feature-Level Similarity Score (FLSS) for "Attribute-Guided Sketch Generation (FG 19)" by [Hao Tang](http://disi.unitn.it/~hao.tang/), Xinya Chen, [Wei Wang](https://weiwangtrento.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yan Yan](https://userweb.cs.txstate.edu/~y_y34/). [Arxiv Paper](https://arxiv.org/abs/1901.09774)
+Feature-Level Similarity Score (FLSS) and the proposed AFPS dataset for "Attribute-Guided Sketch Generation (FG 19)" by [Hao Tang](http://disi.unitn.it/~hao.tang/), Xinya Chen, [Wei Wang](https://weiwangtrento.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yan Yan](https://userweb.cs.txstate.edu/~y_y34/). [Arxiv Paper](https://arxiv.org/abs/1901.09774)
 
 ## Citation
 If you use this code for your research, please cite our paper.
