@@ -85,7 +85,6 @@ FLSS_Score = sum(score_da_db)/(length( grondtruth_jpg )-2)
     axis image off ;
 
     vl_demo_print('sift_match_2', 1) ;
-% --------------------------------------------------------------------
 
 
 
