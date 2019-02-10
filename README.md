@@ -7,7 +7,7 @@ If you use this code or dataset for your research, please cite our paper.
 ```
 @inproceedings{tang2019attribute,
   title={Attribute-Guided Sketch Generation},
-  author={Tang, Hao and Wang, Wei and Xu, Dan and Yan, Yan and Corso, Jason J and Sebe, Nicu},
+  author={Tang, Hao and Chen, Xinya and Wang, Wei and Xu, Dan and Corso, Jason J and Sebe, Nicu and Yan, Yan},
   booktitle={FG},
   year={2019}
 }
