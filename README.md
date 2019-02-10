@@ -3,7 +3,7 @@ Feature-Level Similarity Score (FLSS) and the proposed AFPS dataset for "Attribu
 
 ## Prerequisites
 - Matlab
-- VLFeat
+- VLFeat (download the latest binary package)
 
 
 ## Citation
