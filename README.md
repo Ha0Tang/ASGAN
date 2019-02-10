@@ -1,6 +1,11 @@
 # ASGAN
 Feature-Level Similarity Score (FLSS) and the proposed AFPS dataset for "Attribute-Guided Sketch Generation (FG 19) [Arxiv Paper](https://arxiv.org/abs/1901.09774)" by [Hao Tang](http://disi.unitn.it/~hao.tang/), Xinya Chen, [Wei Wang](https://weiwangtrento.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yan Yan](https://userweb.cs.txstate.edu/~y_y34/). 
 
+## Prerequisites
+- Matlab
+- VLFeat
+
+
 ## Citation
 If you use this code or dataset for your research, please cite our paper.
 
