@@ -31,14 +31,14 @@ for i = 3 : length( grondtruth_jpg )
     num_da = size(da,2);
     num_db = size(db,2);
     min_da_db = min(num_da,num_db);
-    fianlscore_da_db(i-2) = size(matches,2)/min_da_db;
+    score_da_db(i-2) = size(matches,2)/min_da_db;
 
     da=[];
     db=[];
     matches=[];
 end
 
-FLSS_Score = sum(fianlscore_da_db)/(length( grondtruth_jpg )-2)
+FLSS_Score = sum(score_da_db)/(length( grondtruth_jpg )-2)
 
 
 
