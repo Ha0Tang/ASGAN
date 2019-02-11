@@ -20,4 +20,4 @@ If you use this code or dataset for your research, please cite our paper.
 ```
 
 ## Acknowledgments
-Our code is inspired by [VLFeat](http://www.vlfeat.org/).
+This code borrows heavily from [VLFeat](http://www.vlfeat.org/).
