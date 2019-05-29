@@ -39,5 +39,9 @@ If you use this code or dataset for your research, please cite our paper.
 This code borrows heavily from [VLFeat](http://www.vlfeat.org/). We acknowledge the National Institute of Standards and Technology Grant 60NANB17D191 for
 funding this research. We also acknowledge the gift donation from Cisco, Inc for this research.
 
+## Related Projects
+
+**[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)**
+
 ## Contributions
 If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Hao Tang ([hao.tang@unitn.it](hao.tang@unitn.it)).
