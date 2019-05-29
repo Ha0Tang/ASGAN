@@ -19,7 +19,7 @@ bash ./AFPS/download_asgan_dataset.sh dataset_name
 - `CUFS`: 94 trianing, 94 testing.
 - `CUFSF`: 562 training, 561 testing.
 - `EPRIP`: 70 training, 16 testing.
-- `horse2zebra`: 70 training, 16 testing.
+- `PRIPVSGC`: 70 training, 16 testing.
 
 
 ## Citation
