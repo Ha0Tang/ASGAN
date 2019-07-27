@@ -1,3 +1,12 @@
+[![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC4.0-blue.svg)](https://github.com/Ha0Tang/ASGAN/blob/master/LICENSE.md)
+![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
+![Packagist](https://img.shields.io/badge/Pytorch-0.4.1-red.svg)
+![Last Commit](https://img.shields.io/github/last-commit/Ha0Tang/ASGAN)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://github.com/Ha0Tang/ASGAN/graphs/commit-activity)
+![Contributing](https://img.shields.io/badge/contributions-welcome-red.svg?style=flat)
+![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Ha0Tang/ASGAN/issues/)
+
 # ASGAN
 Feature-Level Similarity Score (FLSS) and the proposed AFPS dataset for "Attribute-Guided Sketch Generation (FG 19, Oral) [Arxiv Paper](https://arxiv.org/abs/1901.09774)" by [Hao Tang](http://disi.unitn.it/~hao.tang/), Xinya Chen, [Wei Wang](https://weiwangtrento.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yan Yan](https://userweb.cs.txstate.edu/~y_y34/). 
 
