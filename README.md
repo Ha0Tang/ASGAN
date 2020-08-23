@@ -41,7 +41,6 @@ If you use this code or dataset for your research, please cite our paper.
   booktitle={FG},
   year={2019}
 }
-
 ```
 
 ## Acknowledgments
