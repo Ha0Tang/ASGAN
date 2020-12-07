@@ -8,7 +8,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Ha0Tang/ASGAN/issues/)
 
 # ASGAN
-Feature-Level Similarity Score (FLSS) and the proposed AFPS dataset for "Attribute-Guided Sketch Generation (FG 19, Oral) [Arxiv Paper](https://arxiv.org/abs/1901.09774)" by [Hao Tang](http://disi.unitn.it/~hao.tang/), Xinya Chen, [Wei Wang](https://weiwangtrento.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yan Yan](https://userweb.cs.txstate.edu/~y_y34/). 
+Feature-Level Similarity Score (FLSS) and the proposed AFPS dataset for "[Attribute-Guided Sketch Generation (FG 19, Oral)](https://arxiv.org/abs/1901.09774)" by [Hao Tang](http://disi.unitn.it/~hao.tang/), Xinya Chen, [Wei Wang](https://weiwangtrento.github.io/), [Dan Xu](http://www.robots.ox.ac.uk/~danxu/), [Jason J. Corso](http://web.eecs.umich.edu/~jjcorso/), [Nicu Sebe](http://disi.unitn.it/~sebe/), [Yan Yan](https://userweb.cs.txstate.edu/~y_y34/). 
 
 ## FLSS Metric
 
@@ -22,6 +22,8 @@ For CUFS, CUFSF, EPRIP or PRIPVSGC, the datasets must be downloaded beforehand. 
 
 You can download the corresponding attributed version using the following script. 
 ```
+git clone https://github.com/Ha0Tang/ASGAN
+cd ASGAN/
 bash ./AFPS/download_asgan_dataset.sh dataset_name
 ```
 
