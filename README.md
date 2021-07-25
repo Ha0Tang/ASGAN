@@ -54,4 +54,4 @@ funding this research. We also acknowledge the gift donation from Cisco, Inc for
 **[SelectionGAN](https://github.com/Ha0Tang/SelectionGAN)**
 
 ## Contributions
-If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Hao Tang ([hao.tang@unitn.it](hao.tang@unitn.it)).
+If you have any questions/comments/bug reports, feel free to open a github issue or pull a request or e-mail to the author Hao Tang ([bjdxtanghao@gmail.com](bjdxtanghao@gmail.com)).
